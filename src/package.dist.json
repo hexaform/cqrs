@@ -1,0 +1,20 @@
+{
+    "name": "@hexaform/cqrs",
+    "version": "1.0.0",
+    "description": "CQRS and Event Sourcing library for Hexaform",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/hexaform/cqrs.git"
+    },
+    "author": "Igor Stojadinović <mightytroll@gmail.com> (https://www.linkedin.com/in/igorstojadinovic/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hexaform/cqrs/issues"
+    },
+    "homepage": "https://github.com/hexaform/cqrs#readme",
+    "peerDependencies": {
+        "@hexaform/container": "^1.1.0",
+        "@hexaform/events": "^1.1.0"
+    }
+}
